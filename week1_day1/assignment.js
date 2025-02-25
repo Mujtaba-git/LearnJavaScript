@@ -22,7 +22,7 @@ let skipTests = 5;
 
 console.log(`Total: ${totalTests}, Passed: ${passTests}, Failed: ${failTests}, Skipped: ${skipTests}`);
 
-const x =10;
+/* const x =10;
 console.log(x);
 {const x =9;
 console.log(x);} 
