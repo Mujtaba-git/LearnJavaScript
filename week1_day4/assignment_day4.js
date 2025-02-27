@@ -1,7 +1,7 @@
-let age = 22;
-let hasLicense = true;
-let wantsLuxury = true;
-let cleanRecord = true;
+let age;
+let hasLicense;
+let wantsLuxury;
+let cleanRecord;
 const minageS = 21;
 const minageL = 25;
  // scenario 1
