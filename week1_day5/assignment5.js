@@ -9,6 +9,7 @@ let user = {
     country: "Canada"
 };
 
+
 /* function checkRegistration(username, age, country) {
     if (username.trim() !== ""){
         if (age >= MIN_AGE && age < 120){
