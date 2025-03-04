@@ -12,6 +12,7 @@ const person = {
     hello(){
         console.log("I am print Hello by method");
     }
+    
 };
 
 // Calling function
